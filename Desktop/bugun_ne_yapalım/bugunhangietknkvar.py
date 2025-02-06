@@ -9,7 +9,7 @@ import asyncio
 import re
 
 # Ayarlar
-TOKEN = "7822618928:AAHLIELqdC_lede7VHtpYXONvVVAR8YvHME"
+TOKEN = "--------------"
 URL = 'https://kultur.istanbul/etkinlikler/#events'
 
 # Tarih ve saat regex patternleri
